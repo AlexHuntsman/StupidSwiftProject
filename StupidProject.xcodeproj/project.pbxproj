@@ -156,6 +156,7 @@
 		CC203BC01C1B2AD900D38923 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Huntsman, Alexander";
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				CC203BE91C1B2AD900D38923 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC203BEA1C1B2AD900D38923 /* Build configuration list for PBXNativeTarget "StupidProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				CC203BEC1C1B2AD900D38923 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
